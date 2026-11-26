@@ -16,3 +16,6 @@ Implemented and compared multiple classification algorithms, including Logistic 
 - Achieved **88% accuracy** using Logistic Regression after feature engineering.
 
 **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook.
+
+**Loan Approval System Deployed in Streamlit:**
+https://loan-approval-system-uu2tjyfcs2ynbdbtiamhhc.streamlit.app/
